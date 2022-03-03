@@ -1,0 +1,17 @@
+.footer{
+    background-color: black;
+}
+.footer-cities{
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer-cities a {
+    font-style: normal;
+    color: white;
+    margin-left: 148px;
+}
+.footer-copyright{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}

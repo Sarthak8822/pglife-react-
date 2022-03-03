@@ -1,0 +1,21 @@
+.banner-container{
+    background-image: url("../img/bg.png");
+    background:linear-gradient(rgba(48, 48, 48, 0.5), rgba(77, 77, 77, 0.5)), url("../img/bg.png");
+    background-attachment: fixed;
+    background-size: 100%;
+    margin: auto;
+    height: 690px;
+    width: 100%;
+    text-align: center;
+}
+
+.white{
+    color: white;
+    margin-top: 372px;
+    font-size: 60px;
+}
+.search-form{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}

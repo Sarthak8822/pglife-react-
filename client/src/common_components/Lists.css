@@ -1,0 +1,11 @@
+.page-container .img {
+    vertical-align: middle;
+    width: 50px;
+}
+.cards{
+    background-color: black;
+}
+.py-3{
+    margin-left: auto;
+    margin-right: auto;
+}

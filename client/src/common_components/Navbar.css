@@ -1,0 +1,49 @@
+.Header{
+    background-color: white;
+    font-size: 13px;
+}
+.Header .navbar .nav-item i {
+    margin-right: 8px;
+}
+.Header .navbar .nav-item a{
+    cursor: pointer;
+}
+.navbar-brand img{
+    height: 40px;
+}
+.Header .nav-vl {
+    border-left: 2px solid #d6d6d678;
+    height: 24px;
+    margin: auto 16px;
+    display: block;
+}
+@media(max-width:768px) {
+    .Header .nav-vl {
+        display: none;
+    }
+}
+
+.Header .nav-name {
+    font-weight: bold;
+    margin: auto 16px;
+}
+
+@media(max-width:768px) {
+    .Header .nav-name {
+        margin: 8px 0px
+    }
+}
+
+.modalStyle .modal-dialog {
+    width: 25%;
+    height: 25%;
+    align-items: center;
+}
+
+.input-group i{
+    height: 24px;
+    padding-top: 4px;
+}
+.input-group .ml-3{
+    margin-left: 20px;    
+}
